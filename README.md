@@ -1,2 +1,2 @@
 # algaworkscrm
-API em Springboot com acesso a banco de dados H2
+API in Springboot with H2 database access
